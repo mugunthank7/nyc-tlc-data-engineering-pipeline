@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner image/banner.jpg" width="100%" />
+</p>
+
 # 🚖 NYC TLC Data Engineering Pipeline
 
 A production-grade, end-to-end data engineering and analytics pipeline built from **NYC Taxi & Limousine Commission (TLC)** trip records.  
